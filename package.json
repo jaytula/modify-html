@@ -1,6 +1,6 @@
 {
   "name": "modify-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Takes HTML from stdin and outputs modified HTML",
   "main": "modify-html.js",
   "bin": "./modify-html.js",
